@@ -1,0 +1,10 @@
+C:\Users\L14\Desktop\grafika_komputerowa\Forms1\Forms1\obj\Debug\Forms1.csproj.AssemblyReference.cache
+C:\Users\L14\Desktop\grafika_komputerowa\Forms1\Forms1\obj\Debug\Forms1.Form1.resources
+C:\Users\L14\Desktop\grafika_komputerowa\Forms1\Forms1\obj\Debug\Forms1.Properties.Resources.resources
+C:\Users\L14\Desktop\grafika_komputerowa\Forms1\Forms1\obj\Debug\Forms1.csproj.GenerateResource.cache
+C:\Users\L14\Desktop\grafika_komputerowa\Forms1\Forms1\obj\Debug\Forms1.csproj.CoreCompileInputs.cache
+C:\Users\L14\Desktop\grafika_komputerowa\Forms1\Forms1\bin\Debug\Forms1.exe.config
+C:\Users\L14\Desktop\grafika_komputerowa\Forms1\Forms1\bin\Debug\Forms1.exe
+C:\Users\L14\Desktop\grafika_komputerowa\Forms1\Forms1\bin\Debug\Forms1.pdb
+C:\Users\L14\Desktop\grafika_komputerowa\Forms1\Forms1\obj\Debug\Forms1.exe
+C:\Users\L14\Desktop\grafika_komputerowa\Forms1\Forms1\obj\Debug\Forms1.pdb
